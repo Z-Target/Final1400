@@ -9,7 +9,7 @@ the package should include 2 classes:FinalExam and FinalExamApp which include a 
 FinalExam
 - rows: int
 - columns: int
----------------------------------------------
+---------------
 <constructor> FinalExam(row:int, column: int)
 + CreateArray(): int[][]
 + CalculateArray(sumArray: int[][]): int
